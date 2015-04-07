@@ -14,6 +14,8 @@ The structure of files is based on three parts : Model, View, Controller, see al
 
 ![image](http://upload.wikimedia.org/wikipedia/commons/b/b5/ModelViewControllerDiagram2.svg)
 
+_image from [Wikipedia](http://nl.wikipedia.org/wiki/Model-view-controller-model)_
+
 ## Model
 
 All database management and access is done in the Model.
