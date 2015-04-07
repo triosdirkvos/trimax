@@ -6,5 +6,7 @@ Framework for web development in PHP
 - Markdown content
 - responsive design
 
-Development of this framework has started in april 2015. TRImax is a collection of separate software projects in the past, developed by TRIOS, a web and internet consulting firm. 
+Development of this framework has started in april 2015. TRImax is a collection of separate software projects in the past, developed by TRIOS, a web and internet consulting firm. In TRImax, all these different functions are brought together in one, consistent environment. 
+
+The purpose of TRImax is to deliver basic functionality when buildig a new, responsive website where content management is based on Markdown.
 
