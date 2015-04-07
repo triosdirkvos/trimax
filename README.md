@@ -20,7 +20,6 @@ _image from [Wikipedia](http://nl.wikipedia.org/wiki/Model-view-controller-model
 
 All database management and access is done in the Model.
 
-
 ## View
 
 All visual aspects, user interface, responsiveness is done in the View.
@@ -28,3 +27,7 @@ All visual aspects, user interface, responsiveness is done in the View.
 ## Controller 
 
 The controller binds Model and View together and reacts on events initiated by the user. 
+
+---
+
+For more detailed information, see TRImax Wiki
