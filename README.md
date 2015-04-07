@@ -12,6 +12,8 @@ The purpose of TRImax is to deliver basic functionality when buildig a new, resp
 
 The structure of files is based on three parts : Model, View, Controller.
 
+![image](http://nl.wikipedia.org/wiki/Model-view-controller-model#/media/File:ModelViewControllerDiagram2.svg)
+
 ## Model
 
 All database management and access is done in the Model.
