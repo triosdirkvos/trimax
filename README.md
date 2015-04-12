@@ -28,6 +28,6 @@ The controller binds Model and View together and reacts on events initiated by t
 
 ---
 
-For more detailed information, see TRImax Wiki [TRImax Wiki](https://github.com/triosdirkvos/trimax/wiki)
+For more detailed information, see TRImax Wiki [TRImax Wiki](https://github.com/triosdirkvos/trimax/wiki).
 
 TRImax is developed by [TRIOS](http://www.trios.be), a web and internet consulting firm. 
